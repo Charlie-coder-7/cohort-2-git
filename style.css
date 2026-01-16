@@ -8,8 +8,8 @@
   --bg-1: #343c49; /* deep navy */
   --bg-2: #919598; /* teal-ish */
   --accent-1: #ff7a59; /* warm accent */
-  --accent-2: #ffb86b; /* softer accent */
-  --text: #ffffff;
+  --accent-2: #130a00; /* softer accent */
+  --text: #d82121;
 }
 
 *{box-sizing:border-box;margin:0;padding:0}
