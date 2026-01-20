@@ -5,11 +5,11 @@
 */
 
 :root{
-  --bg-1: #343c49; /* deep navy */
-  --bg-2: #0b3a66; /* teal-ish */
-  --accent-1: #ff7a59; /* warm accent */
-  --accent-2: #ffb86b; /* softer accent */
-  --text: #ffffff;
+  --bg-1: #1c2a41; /* deep navy */
+  --bg-2: #486580; /* teal-ish */
+  --accent-1: #952509; /* warm accent */
+  --accent-2: #9b9793; /* softer accent */
+  --text: #000000;
 }
 
 *{box-sizing:border-box;margin:0;padding:0}
